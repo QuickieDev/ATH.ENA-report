@@ -1,0 +1,8 @@
+bottle==0.12.13
+bottle-neck==1.23
+click==6.7
+cx-Oracle==6.2.1
+gunicorn==19.7.1
+Jinja2==2.10
+MarkupSafe==1.0
+six==1.11.0
